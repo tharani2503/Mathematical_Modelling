@@ -1,5 +1,6 @@
 deltat=0.001
 deltax=0.01
+
 Time=1 ## simulation time
 nt=int((Time)/(deltat)) ## no of timesteps
  ##totalsimulation time
